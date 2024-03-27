@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Firestar7o7
 - 👀 Python Developer with 2 years experience teaching Python
-- 🌱 I’m currently studying for my Degree in BSc Computer Science
 - 📫 fire☆star#9060 is my discord!
 
 ![Kofuku Gif](https://i.pinimg.com/originals/8a/a9/e6/8aa9e6f240a595d83a80e892ee6b6c2f.gif)
